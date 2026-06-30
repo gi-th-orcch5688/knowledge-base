@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gi-th-orcch5688.github.io/knowledge-base/sitemap.xml
